@@ -1,6 +1,6 @@
 # Bangladesh-LULC
 
-[Dataset Link](https://drive.google.com/drive/folders/1_q28mQMuVQRlOIOc3INhBytJpOEAzGVF?usp=sharing)
+[Google Drive Dataset Link](https://drive.google.com/drive/folders/1_q28mQMuVQRlOIOc3INhBytJpOEAzGVF?usp=sharing)
 
 
 | Name of People Assigned for First Annotation | Name of People Assigned for Second Annotation |
