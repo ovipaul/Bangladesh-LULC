@@ -1,4 +1,4 @@
-# Bangladesh LULC Dataset
+# Bangladesh LULC
 
 [Google Drive Dataset Link](https://drive.google.com/drive/folders/1_q28mQMuVQRlOIOc3INhBytJpOEAzGVF?usp=sharing)
 
